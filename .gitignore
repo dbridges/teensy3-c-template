@@ -1,0 +1,5 @@
+*.elf
+*.hex
+.ropeproject
+.DS_Store
+
